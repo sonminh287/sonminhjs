@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Minh Son</h1>
+<h1 align="center">Hi 👋, I'm Son Minh</h1>
 <h3 align="center">A young frontend developer from VietNam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonminhjs&label=Profile%20views&color=0e75b6&style=flat" alt="sonminhjs" /> </p>
