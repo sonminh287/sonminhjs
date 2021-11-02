@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/sonminhjs" target="blank"><img src="https://img.shields.io/twitter/follow/sonminhjs?logo=twitter&style=for-the-badge" alt="sonminhjs" /></a> </p>
 
-- 🔭 I’m currently working on [Phat trien nguoi dung ung dung tren di dong](https://github.com/sonminhjs/sonminh)
-
 - 🌱 I’m currently learning **Hus University**
 
 - 👯 I’m looking to collaborate on [Phat trien nguoi dung ung dung tren di dong](https://github.com/sonminhjs/sonminh)
