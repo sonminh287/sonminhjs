@@ -11,11 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Phat trien nguoi dung ung dung tren di dong](https://github.com/sonminhjs/sonminh)
 
-- 🤝 I’m looking for help with [Phat trien nguoi dung ung dung tren di dong](https://github.com/sonminhjs/sonminh)
-
 - 👨‍💻 All of my projects are available at [https://github.com/sonminhjs/sonminh](https://github.com/sonminhjs/sonminh)
-
-- 💬 Ask me about **java,back end.**
 
 - 📫 How to reach me **kienthanh2seri@gmail.com**
 
