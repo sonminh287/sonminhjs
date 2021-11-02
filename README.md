@@ -17,9 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sonminhjs/sonminh](https://github.com/sonminhjs/sonminh)
 
-- 📝 I regularly write articles on [https://github.com/sonminhjs/sonminh](https://github.com/sonminhjs/sonminh)
-
-- 💬 Ask me about **java,css,js,html,PHP.**
+- 💬 Ask me about **java,back end.**
 
 - 📫 How to reach me **kienthanh2seri@gmail.com**
 
